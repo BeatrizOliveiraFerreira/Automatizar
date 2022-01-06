@@ -2,7 +2,8 @@
 <img src="https://miro.medium.com/max/1200/1*rBEsEXaC-B6baLCFxGqR4Q.png">
 
 Jupyter notebook: https://www.anaconda.com/products/individual
-Python: https://www.python.org/
+
+<p>Python: https://www.python.org/</p>
 
 # Para abrir o Jupyter basta:
   * ir na aba de pesquisa do windows ou qualquer outro sistema operacional e digitar jupyter e dar um enter
